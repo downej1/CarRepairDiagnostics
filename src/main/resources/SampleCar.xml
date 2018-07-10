@@ -6,7 +6,7 @@
 	<parts>
 		<inventoryId>engine</inventoryId>
 		<type>ENGINE</type>
-		<condition>USED</condition>
+		<condition>WORN</condition>
 	</parts>
 	<parts>
 		<inventoryId>electrical</inventoryId>
